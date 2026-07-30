@@ -10,7 +10,6 @@ Official ERC-20 Smart Contract for Bagua Swap ecosystem.
 - **Features:** ERC20Burnable, No Mint Function (Fixed Supply)
 
 ## Ecosystem Utilities
-1. **Auto Buyback & Burn:** Platform trading fees directly buyback and burn $BAGUA to continuously reduce total supply.
+1. **Auto Buyback & Burn:** 100% of platform trading fees are automatically used to buyback and BURN $BAGUA permanently from circulation.
 2. **Base Liquidity Pair:** Primary pairing asset for automated DEX liquidity migration.
-3. **Trading Fee Discounts:** Traders who hold $BAGUA pay lower trading fees across the platform.
-4. **Platform Revenue Share:** Stake $BAGUA to earn a share of daily platform transaction volume.
+3. **Trading Fee Discounts:** Traders holding $BAGUA get reduced trading fees across the launchpad and DEX.
